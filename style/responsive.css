@@ -5,7 +5,9 @@
     }
     .botao {
         margin-top: 5px;
-        width: 190px;
-        height: 60px;
+        width: 300px;
+    }
+    .filme_principal .descricao {
+        margin-bottom: 15px;
     }
 }
